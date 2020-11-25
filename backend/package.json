@@ -8,7 +8,7 @@
     },
     "scripts": {
         "start": "node ./bin/www",
-        "devserver": "./node_modules/nodemon/bin/nodemon.js ./bin/www"
+        "dev": "./node_modules/nodemon/bin/nodemon.js ./bin/www"
     },
     "repository": {
         "type": "git",

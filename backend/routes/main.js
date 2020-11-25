@@ -1,0 +1,1 @@
+//route donde se redirigiran todas las peticiones que vengan de index y la ruta de index será la unica que se enrutará por nginx
