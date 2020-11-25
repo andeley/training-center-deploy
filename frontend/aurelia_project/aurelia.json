@@ -128,14 +128,7 @@
                         "main": "aurelia-fetch-client"
                     },
                     "jquery",
-                    {
-                        "name": "bootstrap3",
-                        "path": "../node_modules/bootstrap3/dist",
-                        "main": "js/bootstrap.min",
-                        "deps": ["jquery"],
-                        "exports": "$",
-                        "resources": ["css/bootstrap.css"]
-                    },
+                  
                     {
                         "name": "bootstrap4",
                         "path": "../node_modules/bootstrap4/dist",
