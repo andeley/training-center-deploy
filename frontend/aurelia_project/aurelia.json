@@ -130,8 +130,8 @@
                     "jquery",
                   
                     {
-                        "name": "bootstrap4",
-                        "path": "../node_modules/bootstrap4/dist",
+                        "name": "bootstrap",
+                        "path": "../node_modules/bootstrap/dist",
                         "main": "js/bootstrap.bundle.min",
                         "deps": ["jquery"],
                         "exports": "$",
