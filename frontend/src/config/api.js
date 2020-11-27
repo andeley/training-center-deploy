@@ -9,7 +9,7 @@ export let API = {
     /**
      * apiUrl debe reemplazarse por la dirección del backend
      */
-    apiUrl: "http://127.0.0.1:3000/",
+    apiUrl: "http://127.0.0.1:3000/api/",
     endpoints: {
         addMaterials: "add-materials",
         addProblemAssignment: "add-problems",
@@ -23,7 +23,6 @@ export let API = {
         enrolledSyllabus: "users/{1}/syllabus",
         materials: "materials",
         problems: "problems",
-        principal: "principal", //se agrego 3/11
         ranking: "ranking",
         recovery: "recovery",
         removeMaterialSyllabus: "remove-materials",
